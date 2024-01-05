@@ -20,7 +20,7 @@ const Home = () => {
     <Flex align="center" justify="center" height="100vh">
       <Box width="400px" p={6} borderWidth={1} borderRadius={8} boxShadow="lg">
         <Heading as="h2" size="xl" textAlign="center" mb={6}>
-          Welcome to Your App
+          Welcome
         </Heading>
         <Button colorScheme="teal" size="lg" mb={4} mr={50} onClick={redirectToLogin}>
           Login
